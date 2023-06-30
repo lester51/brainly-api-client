@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/defrindr/brainly-scraper.git"
+    "url": "git+https://github.com/lester51/brainly-api-client.git"
   },
   "keywords": [
     "brainly",
@@ -17,9 +17,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/defrindr/brainly-scraper/issues"
+    "url": "https://github.com/lester51/brainly-api-client/issues"
   },
-  "homepage": "https://github.com/defrindr/brainly-scraper#readme",
+  "homepage": "https://github.com/lester51/brainly-api-client#readme",
   "publishConfig": {
     "registry": "https://npmjs.com/"
   },
