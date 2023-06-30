@@ -10,7 +10,7 @@ const Brainly = async (query, count) => {
 	_required(count);
 	_required(query);
 	let service = {
-		uri: 'https://brainly.ph/graphql/id',
+		uri: 'https://brainly.ph/graphql/ph',
 		json: true,
 		headers: {
 			'host': 'brainly.ph',
