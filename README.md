@@ -5,11 +5,11 @@ Library to scrape ```https://brainly.ph```
 ## Installation
 
 ```
-npm install brainly-api-client
+npm install brainlyph-api-client
 ```
 or
 ```
-npm i brainly-api-client
+npm i brainlyph-api-client
 ```
 
 ## Parameters
@@ -24,9 +24,9 @@ npm i brainly-api-client
 ### Simple Usage
 
 ```javascript
-const brainly = require('brainly-api-client');
+const brainly = require('brainlyph-api-client');
 
-brainly("what is heart?").then(res => {
+brainly("what is heart?",1).then(res => {
 	console.log(res);
 });
 ```
